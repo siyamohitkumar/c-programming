@@ -12,6 +12,11 @@
 
 ## G1O
 
+### Group 1
+
+| Roll No. | Reg. No. | Name | Github Id Link | C Programming Repo Link |
+| :------: | :------: | :--: | :------------: | :---------------------: |
+
 ## G1P
 
 ## G1Q
