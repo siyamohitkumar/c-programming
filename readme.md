@@ -17,6 +17,7 @@
 | Roll No. | Reg. No. | Name | Github Id Link | C Programming Repo Link |
 | :------: | :------: | :--: | :------------: | :---------------------: |
 |12|12|Princy Maurya|[princy-art](https://github.com/princy-art)|[c-programming](https://github.com/princy-art/c-programming)|
+|10|10|Pranjali Singh|[Pranjalisingh8](https://github.com/Pranjalisingh8)|[c-programming](https://github.com/Pranjalisingh8/c-programming-gl)|
 |21|21|Harshita Sharma|[Harshita-3011](https://github.com/harshita-3007)|[c-programming](https://github.com/harshita-3007/c-programming-gl)|
 
 ## G1P
