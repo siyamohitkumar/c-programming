@@ -19,6 +19,7 @@
 |12|12|Princy Maurya|[princy-art](https://github.com/princy-art)|[c-programming](https://github.com/princy-art/c-programming)|
 |13|13|Pratistha Singh|[pratisthasin524](https://github.com/pratisthasin524)|[c-programming](https://github.com/pratisthasin524/c-programming)|
 |21|21|Harshita Sharma|[Harshita-3011](https://github.com/harshita-3007)|[c-programming](https://github.com/harshita-3007/c-programming-gl)|
+|02|02|Aayush Sahu|[aayushsahu7](https://github.com/aayushsahu7)|[c-programming](https://github.com/aayushsahu7/c-programming)|
 
 
 ## G1P
