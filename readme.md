@@ -16,6 +16,8 @@
 
 | Roll No. | Reg. No. | Name | Github Id Link | C Programming Repo Link |
 | :------: | :------: | :--: | :------------: | :---------------------: |
+| 18 | 25112CN115 | Uwais Ikhlaq Siddiqui | [Uwais_Ikhlaq](https://github.com/ikhlaquwais2005-cmd) | [c-programming](https://github.com/ikhlaquwais2005-cmd/c-programming.gl) |
+| :------: | :------: | :--: | :------------: | :---------------------: |
 
 ## G1P
 
