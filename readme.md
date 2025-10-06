@@ -16,6 +16,7 @@
 
 | Roll No. | Reg. No. | Name | Github Id Link | C Programming Repo Link |
 | :------: | :------: | :--: | :------------: | :---------------------: |
+|12|12|Princy Maurya|[princy-art](https://github.com/princy-art)|[c-programming](https://github.com/princy-art/c-programming)|
 
 ## G1P
 
