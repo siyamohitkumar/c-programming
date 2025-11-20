@@ -19,7 +19,7 @@
 |12|12|Princy Maurya|[princy-art](https://github.com/princy-art)|[c-programming](https://github.com/princy-art/c-programming)|
 |13|13|Pratistha Singh|[pratisthasin524](https://github.com/pratisthasin524)|[c-programming](https://github.com/pratisthasin524/c-programming)|
 |21|21|Harshita Sharma|[Harshita-3011](https://github.com/harshita-3007)|[c-programming](https://github.com/harshita-3007/c-programming-gl)|
-
+|25|25|Yashashvi kant|[kantyashashvi01-beep](https://github.com/kantyashashvi01-beep)|[c-programming](https://github.com/kantyashashvi01-beep/c-programming)|
 
 ## G1P
 | Roll No. | Reg. No. | Name | Github Id Link | C Programming Repo Link |
