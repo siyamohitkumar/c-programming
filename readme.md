@@ -18,7 +18,7 @@
 | :------: | :------: | :--: | :------------: | :---------------------: |
 |04|04|Anand Kumar|[Anand-kumar-15](https://github.com/Anand-kumar-15)|[c-programming](https://github.com/Anand-kumar-15/C-programming)|
 |12|12|Princy Maurya|[princy-art](https://github.com/princy-art)|[c-programming](https://github.com/princy-art/c-programming)|
-|13|13|Pratistha Singh|[pratisthasin524](https://github.com/pratisthasin524)|[c-programming](https://github.com/pratisthasin524/c-programming)|
+|10|10|Pranjali Singh|[Pranjalisingh8](https://github.com/Pranjalisingh8)|[c-programming](https://github.com/Pranjalisingh8/c-programming-gl)|
 |21|21|Harshita Sharma|[Harshita-3011](https://github.com/harshita-3007)|[c-programming](https://github.com/harshita-3007/c-programming-gl)|
 |25|25|Yashashvi kant|[kantyashashvi01-beep](https://github.com/kantyashashvi01-beep)|[c-programming](https://github.com/kantyashashvi01-beep/c-programming)|
 
