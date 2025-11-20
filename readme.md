@@ -22,6 +22,9 @@
 
 
 ## G1P
+| Roll No. | Reg. No. | Name | Github Id Link | C Programming Repo Link |
+| :------: | :------: | :--: | :------------: | :---------------------: |
+|26|25|Neha Maurya|[neha-glb2025](https://github.com/neha-glb2025)|[c-programming](https://github.com/neha-glb2025/C-Programming-From-Basics)|
 
 ## G1Q
 
